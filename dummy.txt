@@ -1,0 +1,1 @@
+Testing an autoamted testing workflow
